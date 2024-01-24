@@ -21,10 +21,12 @@ class OddOrEven
     if (x % 2 == 0)
 
       System.out.println("The number is even.");
+      System.out.println("Hello, World!");
 
     else
 
       System.out.println("The number is odd.");
+      System.out.println("Hello, World!");
 
   }
 
